@@ -1,5 +1,5 @@
 ---
-title: Officer Hours 29th Nov 2023
+title: Officer Hours for 29th Nov 2023
 description: This is a page for Office hours on 29th Nov 2023
 ---
 # Office Hours 2023-11-29
