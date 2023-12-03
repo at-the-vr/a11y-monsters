@@ -2,7 +2,6 @@
 title: Profile for Atharva
 description: This is a profile page for Atharva
 ---
-# Profile for Atharva
 
 Passionate about Frontend Development, currently translating [Astro Docs](https://docs.astro.build) in Hindi language for better a11y.
 
